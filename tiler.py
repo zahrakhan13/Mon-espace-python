@@ -1,0 +1,5 @@
+# Calculations for a tiler
+
+print(9 * 7 + 5 * 7)
+
+print(17 * 6 - (9 * 7 + 5 * 7))
